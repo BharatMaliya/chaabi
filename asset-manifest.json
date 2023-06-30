@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BharatMaliya/chaabi.git/static/css/main.7f26b8ce.css",
-    "main.js": "/BharatMaliya/chaabi.git/static/js/main.810047f4.js",
-    "static/js/787.887b7f7e.chunk.js": "/BharatMaliya/chaabi.git/static/js/787.887b7f7e.chunk.js",
-    "static/media/Logo_Text.svg": "/BharatMaliya/chaabi.git/static/media/Logo_Text.87d33a189409b6a7160fc84580ed2bc2.svg",
-    "index.html": "/BharatMaliya/chaabi.git/index.html",
-    "main.7f26b8ce.css.map": "/BharatMaliya/chaabi.git/static/css/main.7f26b8ce.css.map",
-    "main.810047f4.js.map": "/BharatMaliya/chaabi.git/static/js/main.810047f4.js.map",
-    "787.887b7f7e.chunk.js.map": "/BharatMaliya/chaabi.git/static/js/787.887b7f7e.chunk.js.map"
+    "main.css": "/BharatMaliya/chaabi/static/css/main.7f26b8ce.css",
+    "main.js": "/BharatMaliya/chaabi/static/js/main.e2c8bc98.js",
+    "static/js/787.887b7f7e.chunk.js": "/BharatMaliya/chaabi/static/js/787.887b7f7e.chunk.js",
+    "static/media/Logo_Text.svg": "/BharatMaliya/chaabi/static/media/Logo_Text.87d33a189409b6a7160fc84580ed2bc2.svg",
+    "index.html": "/BharatMaliya/chaabi/index.html",
+    "main.7f26b8ce.css.map": "/BharatMaliya/chaabi/static/css/main.7f26b8ce.css.map",
+    "main.e2c8bc98.js.map": "/BharatMaliya/chaabi/static/js/main.e2c8bc98.js.map",
+    "787.887b7f7e.chunk.js.map": "/BharatMaliya/chaabi/static/js/787.887b7f7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f26b8ce.css",
-    "static/js/main.810047f4.js"
+    "static/js/main.e2c8bc98.js"
   ]
 }

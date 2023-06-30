@@ -1,23 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import AreaGraphCard from './components/organisms/AreaGraph/AreaGraphCard';
+import Header from './components/organisms/Header/Header';
+import SideNav from './components/organisms/SideNav/SideNav';
+import Dashboard from './pages/Dashboard/Dashboard';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className=" App">
+      <SideNav />
+      <div>
+        <Header />
+        <Dashboard />
+      </div>
     </div>
   );
 }
